@@ -1,0 +1,24 @@
+# Security / Local Environment
+.env
+*.env
+
+# Python / Data artifacts
+__pycache__/
+*.csv
+.DS_Store
+
+
+# Ignore the tickers data folder
+tickers/
+# Security / Local Environment
+.env
+*.env
+
+# Python / Data artifacts
+__pycache__/
+*.csv
+.DS_Store
+
+
+# Ignore the tickers data folder
+Job_Applications/

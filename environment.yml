@@ -1,0 +1,32 @@
+name: portfolio-copilot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    # FastAPI Backend
+    - fastapi
+    - uvicorn
+    
+    # LangChain & Orchestration
+    - langchain
+    - langchain-core
+    - langchain-community
+    - langchain-google-genai     
+    - langgraph
+    - langsmith
+    
+    # Database & Vector Search 
+    - sqlalchemy
+    - psycopg-binary             
+    - pgvector                   
+    - langchain-postgres         
+    
+    # Data Handling & Env Vars
+    - pydantic
+    - python-dotenv
+    
+    # Optional: HTTP Requests
+    - httpx
