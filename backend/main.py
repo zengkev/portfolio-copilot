@@ -14,7 +14,7 @@ load_dotenv()
 
 # 2. Re-connect to the Vector Database
 connection = "postgresql+psycopg://langchain:langchain@localhost:5432/portfolio_db"
-embeddings = GoogleGenerativeAIEmbeddings(model="gemini-3.5-flash")
+embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-001")
 
 vector_store = PGVector(
     embeddings=embeddings,
@@ -31,7 +31,7 @@ def lookup_lease_clauses(query: str) -> str:
     return "\n\n".join([doc.page_content for doc in results])
 
 # 4. Initialize the Agent
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash")
 tools = [lookup_lease_clauses]
 
 # This prebuilt function automatically creates the State, Nodes, and Edges for tool calling

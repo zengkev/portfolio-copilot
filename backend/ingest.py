@@ -13,7 +13,7 @@ connection = "postgresql+psycopg://langchain:langchain@localhost:5432/portfolio_
 collection_name = "property_leases"
 
 # 3. Initialize Gemini Embeddings (It will now automatically find the key)
-embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-001")
+embeddings = GoogleGenerativeAIEmbeddings(model="gemini-3.5-flash")
 
 # 4. Connect to the PGVectorStore
 vector_store = PGVector(
