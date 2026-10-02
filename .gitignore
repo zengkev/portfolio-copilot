@@ -8,6 +8,10 @@ __pycache__/
 .DS_Store
 
 
+# Ingested Documents
+*.pdf
+
+
 # Ignore the tickers data folder
 tickers/
 # Security / Local Environment
