@@ -1,5 +1,5 @@
 import os
-from time import time
+from time import sleep
 from dotenv import load_dotenv
 load_dotenv()
 
