@@ -108,6 +108,7 @@ def main():
     2. Document any updates, new strategy pods, files, or folder structures present in the repository scan.
     3. Rewrite/Update the `README.md` completely so that the directory tree, strategy descriptions, system architecture, and command references match the actual codebase precisely.
     4. Keep the professional Markdown layout, emojis, and clear section dividers.
+    5. Ensure that any code snippets, examples, or command references in the README are accurate and up-to-date.
     
     CRITICAL: Return ONLY the raw, updated Markdown content for the README. Do not wrap the final output in conversational filler text outside of the Markdown layout (you may use standard markdown block formatting or output it cleanly).
     """

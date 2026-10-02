@@ -1,0 +1,64 @@
+[2026-10-02 11:09:40] USER: hello??
+[2026-10-02 11:09:40] AI: [{'type': 'text', 'text': 'Hello. I am your Property Management Copilot for Kensington Manor. \n\nHow may I assist you today with building operations, lease reviews, board regulations, or tenant alteration inquiries?', 'extras': {'signature': 'EpIICo8IAWkUfROkUXmuZTXNXyHKu4mVW/Aar1AC20AVz6TkQJC3vC3syK0Aa9+8qVxw1+ygR+BGcNwuTnHvRwhQND/4ukipnjiAez39d5B/mgeV9T72yvhQYidni1zpHILoyxlS0HyvND9B2A+cEdK+ijP7W0Gfg6tTFVJbS5Sb0OuYyj7Z3apYs55BlneJD01EabB0C9VQDMwEiQHc0E6H+q6WJN6SABOU90Iuds23+93dzDqKFjEZ6Lrw+NQy7xYx7aMtEipC4ed3ASqpaISedl3D0/OPXhV17F19KX2W0TAph8UBvHd+Nb9QWPzqp30kNpbnzYNLjer1njSyPCQDJb6YlpK55yYD4U0Q/wjY1mnP7k/8+usnyiSK7/kzITQW4RmYNP8lXRLugPDIjO+lZmabLqHxRhfF10kVRkZ20a7EwFL+DTFY3lmNucRJZ3yYY4/faackh/k6k/YNx87n6mtCiwLUG4kKRQzEfACIwdRAlo18ooQfiphm0ucJxqgFwiVlaUtHfZ0n9LFAlerAQwLsEoTkk3crk+zQMOXuQ7qZ08mO1YTW11h10+kVRu/q9GqDw0FSRwgCHCgBqQy3lUX/vRhqe2xCnzx0K36u0aUYh+rgdz/1kRd3PJQKrHvYgmliwBq/sZIeDh2YDj7+0GfvgdbjxGN9vmBF8g89PHWJrRLkv4zKPHu9pAAQnIe/2VIcoR7iqTx0+rFjEOy0UBH81mtJ3UR9DZXZJ2sw5yna504n4bjWF8n9/9FGKTQoGsGNwQPwixfX0O8gYHOBNX7DqxGxsaQiK7ITq1J0lEAdnZbaiEb1D/6lUD7LeB4395cMR30JHRx6KxVc66tdTKdDeoi6RoeBQR/Z6DnJHqpU3kM+oq2T5hcluZl+9MEqKp0hbwSzxj/az5Ef/7/ymATFc7xKxbmJeCewuJgfQ2fOvDvFwjtNzZhFQqyz19lT6qiZfTux/kTz8lGA0kl/le37bnjoRjH7NDVxOuHwSRlROwsv2zrZCLptVhgiJXepX82JAlzrSkvINnneGI6GBeyY6i0JIriHBCqwjz4MNyXG9A5f17R12V1PQKQo1KrDJJpvOuDmxjdh+NCG7aHgq9XYCg+MHndan9YRKxCiLCD5baUcEr1N14mtXp5A3s6SXZUjJErr4mRtrjSgnrqb0RtFd0NcyBSso+j9ZZtEN5XjIFBziRgOOIUWKYEyK8roBi8SK/7Dw1l/WjA9cuApo6GwmSZRmi8Sc8Ptzk071xzbDPDQq1a3vNcHWjwZ5b/AR9PnJigC/Y4K/rjIaiHH29yxou0A4IX196wv8DncqD/gzFer/5KdZ/2p1m2tbQNADqOM7aYHm7JTAQwzbqfQ20+PZQkHaq7zq5fU4LDQsKqPHg=='}}]
+--------------------------------------------------
+[2026-10-02 11:12:20] USER: hello
+[2026-10-02 11:12:20] AI: [{'type': 'text', 'text': 'Hello, and welcome to the Kensington Manor Property Management Copilot. \n\nHow may I assist you today with building operations, lease reviews, tenant alterations, or condo board regulations?', 'extras': {'signature': 'ErkECrYEAWkUfRMaci8NuqDTOYjHN1KYQe6FTTIKh2ukaHglzlLnxQnQy/nzJ/CPcaWwPKhso9BjQGlx8fVngPJ2n9YLzCt9LJhqwyneGqfW14rsNUA/69w7yD9xJ+kcb8QHkpHgdEt7Prrql6Srgo9irUjqzwJIxUQh77c+FpyUeN9moaeolpKXsi14W4S7xzT+d8vB8zX/rSciTGSHEfSKwxEoAEucb6cNjikdret0SJIV2IRskS6sKJxA+xfwWa7Bh8UUvvzTiQ2woAxPr7xUwJCnbA2gRrWIcyadwy4qMclgwyJMebuqKPvJ40AhwHA8Ge5paVwhsqvKiprEpxVBW+uuVjSfQwk3+9SiuaJZDttgEmLZFepTsXRU21JTigB9UIhIYNzmK7gHH5I+jcbriYUNN22IwkG1lWtW2+2dC2PW0DNF5xzul/S8FQ4fzrTC/H9XaxqJO9lv3pM6MKLDbeK3+REGr7+YLFO5mb8Z+pxN3Zg/NYuBOYcFFsCO9V9LXefVZdoRjkamDcIJnIkYfm0Ld53fAAEZKh4e70Ao1RZyVxuAgDQvFnX04peTO0vI3+9h250DBFEOOKu6i0FVKopBvYk/QEpCHDyw4vfNwJbhQ+JZZMeTydtgk4Zn+Zjn+T/AJKaNXMKiaYnmIQLm0yEgXxVtqGUX2RRoX4wIeHbmLlyA35SaXa4qZKF15Cj7oDrm3dnOKnLu4pPDAZkkC16LfZulJ2e8cYsSspTPqnhZ9nyuSk9ZlgI='}}]
+--------------------------------------------------
+[2026-10-02 11:14:05] USER: hello
+[2026-10-02 11:14:05] AI: Hello! How can I assist you today with Kensington Manor's building operations, lease reviews, tenant alterations, or board regulations?
+--------------------------------------------------
+[2026-10-02 11:15:06] USER: who owns this place
+[2026-10-02 11:15:06] AI: Based on the offering plan for **Kensington Manor Condominium** (located at 428 East 9th Street, Brooklyn, NY 11218), the ownership details are as follows:
+
+*   **Sponsor / Developer:** **428 East 9 LLC**
+    *   **Address:** 2383 McDonald Avenue, Brooklyn, NY 11223
+    *   **Contact Number:** (718) 331-2807
+*   **Ownership Structure:** The Sponsor initially holds the property in fee simple absolute. Upon the consummation of the condominium offering plan (accepted for filing on July 23, 2024), individual units (76 residential units, 38 parking units, and 1 community facility unit) are sold to individual purchasers, who then collectively own the common elements of the condominium. 
+*   **Management:** Operations are overseen by the **Board of Managers of the Kensington Manor Condominium**. Additionally, the Sponsor retains the right to rent rather than sell certain residential units post-consummation.
+--------------------------------------------------
+[2026-10-02 11:15:24] USER: hello
+[2026-10-02 11:15:24] AI: Hello! How can I assist you today with Kensington Manor building operations, lease reviews, or board regulations?
+--------------------------------------------------
+[2026-10-02 11:16:58] USER: how long is our warranty period
+[2026-10-02 11:16:58] AI: Based on Kensington Manor’s offering plan documents, the warranty details are structured as follows:
+
+### 1. **Roof Warranty**
+* **Duration:** **One (1) year** from and after the date of roof installation.
+* **Coverage:** Guaranteed by the manufacturer to be free from defects due to failure of skillful construction and defective materials (No Dollar Limit Manufacturer’s Warranty). 
+* **Assignment:** This warranty is assigned to the Board of Managers at the closing of the first Residential Unit.
+
+### 2. **Equipment and Appliances (Units & Common Elements)**
+* **Duration:** Dependent on the individual manufacturer's terms. 
+* **Assignment:** At or prior to the closing of a Unit:
+  * Manufacturer's warranties for equipment and appliances inside the unit are assigned directly to the **Unit Owner**.
+  * Manufacturer's warranties for equipment and appliances in the Common Elements are assigned to the **Board of Managers**.
+* **Sponsor Disclaimer:** The Sponsor does not act as a backup or successor warrantor. If a manufacturer fails to honor their warranty (e.g., due to bankruptcy or refusal), recourse is solely against the manufacturer, not the Sponsor.
+
+### 3. **Sponsor Construction Obligations**
+The Sponsor does not offer a separate general building warranty period. However, they are legally obligated to construct the building and individual units in accordance with all applicable laws, building codes, filed plans, and specifications representation set forth in the Offering Plan.
+--------------------------------------------------
+[2026-10-02 11:17:24] USER: if i have a leak in my condo unit, who is responsible
+[2026-10-02 11:17:24] AI: Based on the Kensington Manor offering plan and bylaws, responsibility for a leak depends on its **source** and **origin**. 
+
+Here is the operational breakdown of responsibility:
+
+### 1. Unit Owner Responsibility
+According to **Section 10 (Maintenance and Repairs)** of the bylaws, Unit Owners are responsible for all maintenance, repairs, and associated costs for elements within or belonging to their Unit. This includes:
+* **Plumbing fixtures, appliances, and heating/cooling units** located inside or exclusively serving the unit.
+* **Internal pipe leaks** that are not part of the building's Common Elements.
+* **Ordinary maintenance of Limited Common Elements** (such as terraces or balconies) that the owner has exclusive access to, including any leaks caused by the owner's negligence, lack of maintenance, or unauthorized alterations.
+
+### 2. Board of Managers (Common Expense) Responsibility
+The Condominium is responsible for leaks originating from **Common Elements** or structural components, which are billed as a Common Expense:
+* **Main building pipes, risers, and common plumbing lines** (elements designated as Common Elements).
+* **Roof Leaks & Roof Drains:** The Board of Managers is responsible for maintaining roof drains. In the event of damage sustained from a roof leak, the Board will assess and repair the damage.
+* **Structural Limited Common Elements:** Structural repairs or extraordinary waterproofing/leak remediation on balconies or terraces (provided the leak was not caused by the acts, omissions, or neglect of the Unit Owner who has exclusive access).
+
+### 3. Negligence and Liability Rule
+If a leak in a Common Element or another unit is caused by the **negligence, misuse, or neglect** of a Unit Owner (e.g., leaving a faucet running, failing to maintain an appliance, or unapproved plumbing work), the cost of the repair and any resulting damage will be charged directly to that Unit Owner.
+
+### Recommended Next Steps for Management/Residents:
+1. **Immediate Inspection:** Contact building management immediately to dispatch a licensed plumber or superintendent to locate the source of the leak (to determine if it originates from a common riser or a unit-specific fixture/appliance).
+2. **Mitigation:** Turn off local water valves if the leak is unit-specific to minimize damage to surrounding units.
+3. **Documentation:** Document the damage with photos and maintain a log of the incident for insurance purposes.
+--------------------------------------------------

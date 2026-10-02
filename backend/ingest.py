@@ -1,5 +1,6 @@
 import os
 from time import sleep
+import time
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -63,6 +64,35 @@ for i in range(0, len(documents), batch_size):
     
     # Pause for 2 seconds to avoid hitting Google API rate limits
     time.sleep(2)
+
+
+# need to use asynchronous processing for better performance with large batches.. will work on this shit
+
+
+'''
+
+async def process_batch(batch, batch_number):
+    """Asynchronously embed and insert a single batch."""
+    print(f"Batch {batch_number}: Started embedding...")
+
+
+async def main():
+
+
+
+
+
+    print(f"Firing off {len(tasks)} concurrent batches to Google API...")
+    
+    # Run all tasks simultaneously
+    await asyncio.gather(*tasks)
+    print("Success! Your offering plan is now searchable.")
+
+if __name__ == "__main__":
+    # Run the main async loop
+    asyncio.run(main())
+
+'''
 
 print("Success! Your offering plan is now searchable.")
 

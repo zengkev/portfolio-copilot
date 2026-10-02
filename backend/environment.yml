@@ -9,6 +9,7 @@ dependencies:
     # FastAPI Backend
     - fastapi
     - uvicorn
+    - lucide-react
     
     # LangChain & Orchestration
     - langchain
@@ -27,6 +28,9 @@ dependencies:
     # Data Handling & Env Vars
     - pydantic
     - python-dotenv
+
+    # PDF
+    - pypdf
     
     # Optional: HTTP Requests
     - httpx
